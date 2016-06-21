@@ -10,4 +10,10 @@ public class Greeting{
     return "Hello";
 }
 
+public final double getAmount(){
+
+    return 200;
+
+}
+
 }
