@@ -16,4 +16,9 @@ public final double getAmount(){
 
 }
 
+public int getDiscount(){
+
+  return 2;
+}
+
 }
